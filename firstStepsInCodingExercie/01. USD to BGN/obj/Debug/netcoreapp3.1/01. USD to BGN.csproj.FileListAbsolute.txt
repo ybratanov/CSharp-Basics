@@ -1,0 +1,14 @@
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\bin\Debug\netcoreapp3.1\01. USD to BGN.exe
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\bin\Debug\netcoreapp3.1\01. USD to BGN.deps.json
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\bin\Debug\netcoreapp3.1\01. USD to BGN.runtimeconfig.json
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\bin\Debug\netcoreapp3.1\01. USD to BGN.runtimeconfig.dev.json
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\bin\Debug\netcoreapp3.1\01. USD to BGN.dll
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\bin\Debug\netcoreapp3.1\01. USD to BGN.pdb
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.csproj.AssemblyReference.cache
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.AssemblyInfoInputs.cache
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.AssemblyInfo.cs
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.csproj.CoreCompileInputs.cache
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.dll
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.pdb
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\01. USD to BGN\obj\Debug\netcoreapp3.1\01. USD to BGN.genruntimeconfig.cache

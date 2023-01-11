@@ -1,0 +1,14 @@
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.exe
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.deps.json
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.json
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.dev.json
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.AssemblyReference.cache
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfo.cs
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+D:\Documents\SoftUni\C sharp\NewProjects\firstStepsInCodingExercie\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.genruntimeconfig.cache
